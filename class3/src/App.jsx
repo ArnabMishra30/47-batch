@@ -1,11 +1,17 @@
+import LiveInput from "./components/LiveInput"
 import Todo from "./components/Todo"
+// import Form from "./components/Form"
+import ReactForm from "./components/ReactForm"
 
 
 function App() {
 
   return (
     <>
-      <Todo/>
+      {/* <Todo/> */}
+      {/* <LiveInput/> */}
+      {/* <Form/> */}
+      <ReactForm/>
     </>
   )
 }
