@@ -13,3 +13,6 @@ export function ThemeProvider({children}) {
         </ThemeContext.Provider>
     )
 }
+
+
+// developer should follow Single Responsibility Principle
